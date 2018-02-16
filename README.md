@@ -7,3 +7,4 @@ This project is currently on-going.
 - Buttons **[WIP - 70%]**
 - Grid **[WIP - 20%]**
 - Reboot CSS
+- Colour Schemes **[WIP - 1 FOR NOW]**
