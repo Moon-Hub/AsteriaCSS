@@ -27,13 +27,3 @@
 h1, h2, h3 {
 	font-family: "", "", "";
 }*/
-
-
-body {
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-    background-image: url("../img/bg.jpg");
-}
